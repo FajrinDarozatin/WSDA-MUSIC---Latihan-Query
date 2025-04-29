@@ -11,6 +11,7 @@ Proyek ini berfokus pada analisis data musik menggunakan SQL. Tujuannya adalah u
 **Teknologi yang Digunakan:**
 
 •	SQLite
+
 •	SQL
 
 **Hasil dan Dampak:**
