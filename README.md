@@ -6,7 +6,7 @@ Project ini berfokus pada analisis data musik menggunakan SQL. Tujuannya adalah 
 
 •	**Penggunaan Fungsi SQL Lanjutan:** Menerapkan fungsi seperti CASE, FILTER, LENGTH, SUBSTR, dan STRFTIME untuk manipulasi dan analisis data yang kompleks.
 
-•	**Pembuatan dan Manajemen View: **Membuat view untuk menyederhanakan query dan meningkatkan efisiensi pengambilan data.
+•	**Pembuatan dan Manajemen View:** Membuat view untuk menyederhanakan query dan meningkatkan efisiensi pengambilan data.
 
 •	**Analisis Data Musik:** Melakukan analisis terhadap data musik untuk mengidentifikasi tren dan pola yang dapat mendukung pengambilan keputusan bisnis.
 
